@@ -1,12 +1,12 @@
 {
-    "name": "app-insights-php/app-insights-php-bundle",
-    "description": "Microsoft App Insights Symfony bundle",
+    "name": "lingkay/app-insights-php-bundle",
+    "description": "Fork of Microsoft App Insights Symfony bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Norbert Orzechowicz",
-            "email": "norbert@orzechowicz.pl"
+            "name": "Rommel Pascual",
+            "email": "rommel.pascual@inchcape.com"
         }
     ],
     "autoload": {
@@ -23,13 +23,13 @@
         "app-insights-php/monolog-handler": "^0.2.1",
         "app-insights-php/client": "^0.2.6",
         "symfony/framework-bundle": "^3.4|^4.0|^4.4|^5.0|^5.1",
-        "guzzlehttp/guzzle": "^6.0",
+        "guzzlehttp/guzzle": "6.3.3",
         "twig/twig": "^1.2|^2|^3"
     },
     "require-dev": {
         "app-insights-php/doctrine-dependency-logger": "^0.2",
         "friendsofphp/php-cs-fixer": "^2.14",
-        "symfony/monolog-bundle": "^3.4",
+        "symfony/monolog-bundle": "^3.7",
         "phpunit/phpunit": "^9.5"
     },
     "scripts": {
