@@ -1,3 +1,9 @@
+## [Unreleased] - 2021-10-15
+
+### Changed
+- [d74c72](https://github.com/lingkay/app-insights-php-bundle/commit/d74c720d89674b2cdd02b91ed47add49c702fb6a) - **.idea** - [@lingkay](https://github.com/lingkay)
+- [b15f1a](https://github.com/lingkay/app-insights-php-bundle/commit/b15f1a449b4342c65e3b834c9c884d1efd424da0) - **Composer.json upgrade** - [@lingkay](https://github.com/lingkay)
+
 ## [0.2.6] - 2021-02-14
 
 ### Added
